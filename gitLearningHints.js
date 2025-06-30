@@ -19,6 +19,7 @@
  * git config --global --list
  * git config --global user.name "Jahid Hasan"
  * git config --global user.email "gsvmch777@gmail.com"
+ * git config --global color.ui "auto"
  *
  * # SSH key generate.
  * ssh-keygen -o -t rsa -C "gsvmch777@gmail.com"
