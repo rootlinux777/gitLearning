@@ -106,4 +106,5 @@ myFunc('Jahid Hasan')
 # Sup and Sub.
 
 H<sub>2</sub>O
-H<sup>2</sup>
+<br>
+X<sup>2</sup>
